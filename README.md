@@ -29,14 +29,14 @@ El contenido está estructurado y dirigido a:
 * Profesionales e individuos curiosos sobre el desarrollo de software.
 * Personas que buscan conocer herramientas modernas para automatizar tareas diarias.
 
-## ⚙️ Requisitos Previos (Entorno de Trabajo)
+##  Requisitos Previos (Entorno de Trabajo)
 
 Para participar en los ejercicios prácticos, es necesario contar con:
 1. **Intérprete de Python:** Versión 3.x instalada en el sistema operativo.
 2. **Editor de Código:** Visual Studio Code (recomendado) o cualquier IDE de preferencia.
 3. **Consola/Terminal:** Acceso a la línea de comandos del sistema operativo (CMD, PowerShell o Terminal).
 
-## 📚 Bibliografía y Recursos de Apoyo
+##  Bibliografía y Recursos de Apoyo
 
 Para expandir los conocimientos adquiridos, se recomienda consultar las siguientes fuentes:
 * **Documentación Oficial:** El sitio web oficial de Python en español.
