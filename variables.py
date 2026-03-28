@@ -3,7 +3,7 @@ edad = 27   # Entero
 estatura = 1.65 #Flotante
 booleana = True  #booleano
 nombre = "Isamir"  #Cadena de texto
-
+#Isamir Alessandro Armas Cano
 #Variables
 a = float(input("Ingresa el primer numero: "))
 b = float(input("Ingresa el segundo numero: "))
